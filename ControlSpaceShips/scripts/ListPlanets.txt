@@ -1,0 +1,968 @@
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+5251977[1]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Aargonar[2]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Ab Dalis[3]	; Outer Rim Territories[3]	; Unknown	; Ab Dalis system[3]	; Unknown	; Unknown
+Abafar[4]	; Outer Rim Territories[4]	; Sprizen sector[5]	; Unknown	; Various[6]	; Unknown
+Abednedo[7]	; Colonies[7]	; Unknown	; Unknown	; Abednedo[8]	; Unknown
+Abelor[9]	; Mid Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Abregado-rae[10]	; Core Worlds[11]	; Unknown	; Abregado system[12]	; Unknown	; Unknown
+Absanz[13]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Actlyon[14]	; Outer Rim Territories[14]	; Unknown	; Unknown	; Unknown	; Unknown
+Aeos Prime[15]	; Outer Rim Territories[15]	; Unknown	; Aeos system[16]	; Aeosians[15]	; Unknown
+Affa[5]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Affadar[17]	; Unknown	; Unknown	; Unknown	; T'Laeem[17]	; Unknown
+Agamar[18]	; Outer Rim Territories[11]	; Unknown	; Agamar system[19]	; Unknown	; Unknown
+Agaris[20]	; Wild Space[20]	; Unknown	; Unknown	; Agarian[21]	; Unknown
+Agoliba-Ado[22]	; Unknown	; Unknown	; Agoliba-Tu system[22]	; Unknown	; Unknown
+Agoliba-Ena[22]	; Unknown	; Unknown	; Agoliba-Tu system[22]	; Unknown	; Unknown
+Ahch-To[23]	; Unknown Regions[24]	; Unknown	; Ahch-To system[5]	; Human, Lanai[24]	; Unknown
+Ajara[25]	; Outer Rim Territories[25]	; Cademimu sector[25]	; Unknown	; Unknown	; Unknown
+Akiva[26]	; Outer Rim Territories[26]	; Unknown	; Unknown	; Ahia-Ko, Uugteen[26]	; Myrra[26]
+Alaris[27]	; Mid Rim Territories[27]	; Mytaranor sector[27]	; Kashyyyk system[27]	; Unknown	; Unknown
+Alderaan[28]	; Core Worlds[5]	; Alderaan sector[5]	; Alderaan system[28]	; Humans[29]	; Aldera[30]
+Aleen[31]	; Mid Rim Territories[31]	; Bright Jewel sector[32]	; Aleen system[32]	; Aleena, Kindalo[31]	; Unknown
+Aleen Minor[32]	; Mid Rim Territories[32]	; Bright Jewel sector[32]	; Aleen system[32]	; Aleena[32]	; Unknown
+Allst Prime[33]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Allyuen[34]	; Outer Rim Territories[35]	; Anoat sector[35]	; Unknown	; Unknown	; Unknown
+Aloxor[36]	; Unknown	; Esaga sector[36]	; Aloxor system[36]	; Unknown	; Unknown
+Alpinn[37]	; Outer Rim Territories[37]	; Unknown	; Unknown	; Unknown	; Unknown
+Alsakan[5]	; Core Worlds[11]	; Unknown	; Unknown	; Humans[5]	; Unknown
+Alun[38]	; Mid Rim Territories[38]	; Unknown	; Unknown	; Unknown	; Unknown
+Ambria[39]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Amethia Prime[40]	; Inner Rim Territories[40]	; Unknown	; Unknown	; Unknown	; Unknown
+Ammon IV[41]	; Outer Rim Territories[41]	; Unknown	; Unknown	; Unknown	; Unknown
+Anantapar[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Anaxes[5]	; Core Worlds[11]	; Azure sector[42]	; Azure system[5]	; Unknown	; Unknown
+Andelm IV[43]	; Outer Rim Territories[44]	; Unknown	; Unknown	; Various[45]	; Unknown
+Ando[46]	; Mid Rim Territories[11]	; Lambda sector[47]	; Ando system[47]	; Aqualish[48]	; Unknown
+Ando Prime[26]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Anelsana[30]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Ankhural[49]	; Unknown	; Unknown	; Unknown	; Ankhuralans[49]	; Unknown
+Anoat[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Anoat system[34]	; Unknown	; Unknown
+Ansion[50]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Antar[39]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Anthan Prime[51]	; Outer Rim Territories[51]	; Albarrio sector[52]	; Anthan system[53]	; Various[53]	; Unknown
+Aquaris[54]	; Expansion Region[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Arbiflux[55]	; Outer Rim Territories[55]	; Unknown	; Unknown	; Unknown	; Unknown
+Arbooine[56]	; Outer Rim Territories[56]	; Unknown	; Unknown	; Sathari[56]	; Unknown
+Ardennia[57]	; Unknown	; Unknown	; Unknown	; Ardennians[58]	; Unknown
+Argai Minor[59]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Aria Prime[37]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Aridus[60]	; Expansion Region[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Arieli[1]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Arkanis[5]	; Outer Rim Territories[5]	; Arkanis sector[5]	; Arkanis system[61]	; Humans[62]	; Unknown
+Aris[25]	; Unknown	; Unknown	; Unknown	; Humans[25]	; Unknown
+Arreyel[30]	; Inner Rim Territories[30]	; Unknown	; Unknown	; Unknown	; Unknown
+Artiod Minor[8]	; Unknown	; Morellian Commonwealth[8]	; Artiod system[8]	; Artiodacs[8]	; Unknown
+Arvala-7[63]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Ashas Ree[64]	; Outer Rim Territories[65]	; Unknown	; Unknown	; Unknown	; Unknown
+Askaji[66]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Askajian[66]	; Unknown
+Asmeru[54]	; Mid Rim Territories[11]	; Senex sector[54]	; Unknown	; Unknown	; Unknown
+Asusto[67]	; Outer Rim Territories[67]	; Unknown	; Unknown	; Unknown	; Unknown
+Athulla[68]	; Core Worlds[69]	; Unknown	; Jinata system[68]	; Unknown	; Unknown
+Atollon[42]	; Outer Rim Territories[42]	; Lothal sector[42]	; Atollon system[42]	; Humans, Lasat, Twi'lek[42]	; Unknown
+Atterra Alpha[70]	; Outer Rim Territories[70]	; Unknown	; Atterra system[70]	; Unknown	; Unknown
+Atterra Bravo[70]	; Outer Rim Territories[70]	; Unknown	; Atterra system[70]	; Humans (Atterran)[70]	; Unknown
+Atterra Primo[70]	; Outer Rim Territories[70]	; Unknown	; Atterra system[70]	; Unknown	; Unknown
+Auratera[32]	; Outer Rim Territories[32]	; Vorzyd sector[32]	; Auratera system[32]	; Various[32]	; Unknown
+Avedot[9]	; Colonies[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Avidich[71]	; Unknown Regions[71]	; Unknown	; Unknown	; Unknown	; Unknown
+Axxila[72]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Humans[11]	; Unknown
+B
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Bakura[73]	; Wild Space[11]	; Unknown	; Unknown	; Unknown	; Salis D'aar[9]
+Balnab[7]	; Mid Rim Territories[7]	; Unknown	; Unknown	; Balnab (stranded)[74]	; Unknown
+Balosar[75]	; Core Worlds[11]	; Unknown	; Unknown	; Balosar[75]	; Unknown
+Bamayar IX[76]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+B'ankora homeworld[37]	; Unknown	; Unknown	; Unknown	; B'ankora[37]	; Unknown
+Baraan-Fa[77]	; Unknown	; Unknown	; Unknown	; Humans[77]	; Unknown
+Barab I[78]	; Outer Rim Territories[78]	; Unknown	; Unknown	; Barabel[78]	; Unknown
+Bardelberan 7[79]	; Mid Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Bardotta[80]	; Colonies[7]	; Shasos sector[32]	; Bardotta system[32]	; Bardottans[80]	; Bardotta Capital City[81]
+Bar'leth[82]	; Core Worlds[82]	; Unknown	; Unknown	; Humans[83]	; Unknown
+Bastatha[84]	; Inner Rim Territories[84]	; Unknown	; Bastatha system[84]	; Niktos[84]	; Unknown
+Basteel[85]	; Outer Rim Territories[85]	; Corva sector[85]	; Unknown	; Unknown	; Unknown
+Batonn[50]	; Outer Rim Territories[50]	; Batonn sector[50]	; Batonn system[86]	; Unknown	; Unknown
+Batuu[87]	; Outer Rim Territories[87]	; Trilon sector[5]	; Batuu system[5]	; Various[88][89][90][91]	; Unknown
+Bavva[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Bedlam[92]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Begamore[93]	; Outer Rim Territories[93]	; Unknown	; Unknown	; Humans, Devaronians, Latero, Mythrol[93]	; Green Dawn[93]
+Behpour[94]	; Mid Rim Territories[94]	; Chommell sector[94]	; Unknown	; Unknown	; Unknown
+Belderone[54]	; Outer Rim Territories[54]	; Unknown	; Belderone system[54]	; Unknown	; Unknown
+Bendeluum[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Benetage[32]	; Outer Rim Territories[32]	; Unknown	; Unknown	; Unknown	; Unknown
+Benglor[95]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Bernilla[9]	; Inner Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Berzite[96]	; Unknown	; Unknown	; Yost system[96]	; Unknown	; Unknown
+Bespin[5]	; Outer Rim Territories[5]	; Anoat sector[5]	; Bespin system[5]	; Humans, Ugnaughts[97]	; Unknown
+Bestine IV[54]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Bilzen[98]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Birren[30]	; Inner Rim Territories[30]	; Unknown	; Unknown	; Unknown	; Unknown
+Bith[54]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Bith[99]	; Unknown
+Blutopia[100]	; Expansion Region[9]	; Unknown	; Unknown	; Blutopians[9]	; Unknown
+Bogano[101]	; Outer Rim Territories[102]	; Unknown	; Unknown	; Humans, Zeffo[101]	; Unknown
+Bora Vio[103]	; Unknown	; Unknown	; Lido system[103]	; Unknown	; Unknown
+Botajef[104]	; Outer Rim Territories[11]	; Belsmuth sector[105]	; Botajef system[50]	; Jefi, Humans[50]	; Unknown
+Bothawui[7]	; Mid Rim Territories[106]	; Bothan Space[11]	; Unknown	; Unknown	; Unknown
+Botor[107]	; Core Worlds[11]	; Unknown	; Unknown	; Lo's species[107]	; Unknown
+Boz Pity[27]	; Mid Rim Territories[11]	; Unknown	; Boz Pity system[108]	; Unknown	; Unknown
+Bracca[101]	; Mid Rim Territories[101]	; Unknown	; Bracca system[101]	; Unknown	; Unknown
+Bray[109]	; Unknown	; Unknown	; Unknown	; Brayan[109]	; Unknown
+Brentaal IV[54]	; Core Worlds[54]	; Bormea sector[110]	; Unknown	; Herglics,[111] Humans[54]	; Unknown
+Bri'n[112]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Bromlarch[113]	; Mid Rim Territories[113]	; Unknown	; Unknown	; Unknown	; Unknown
+Burnin Konn[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Burnin Konn system[34]	; Humans, Nothoiins[34]	; Unknown
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Cabarria[114]	; Colonies[115]	; Unknown	; Unknown	; Unknown	; Unknown
+Cadomai Prime[58]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Snivvian[58]	; Unknown
+Calcoraan[116]	; Inner Rim Territories[116]	; Unknown	; Calcoraan system[116]	; Unknown	; Unknown
+Caloria[117]	; Unknown	; Tapani sector[117]	; Unknown	; Unknown	; Unknown
+Camson[118]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Candovant[119]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Cantonica[24]	; Outer Rim Territories[24]	; Corporate Sector[24]	; Cantonica system[24]	; Various[24]	; Canto Bight[24]
+Caragon-Viner[120]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Carajam[121]	; Outer Rim Territories[121]	; Unknown	; Unknown	; Unknown	; Unknown
+Cardota[122]	; Core Worlds[122]	; Unknown	; Hosnian system[122]	; Unknown	; Unknown
+Carida[72]	; Colonies[11]	; Unknown	; Carida system[123]	; Unknown	; Unknown
+Carlac[124]	; Outer Rim Territories[125]	; Unknown	; Unknown	; Humans (Ming Po)[124]	; Unknown
+Carnelion IV[126]	; Unknown	; Unknown	; Unknown	; Fishers,[127] Humans[126]	; Unknown
+Castell[40]	; Colonies[82]	; Unknown	; Castell system[40]	; Gossams,[5] Humans[82]	; Unknown
+Castilon[128]	; Mid Rim Territories[9]	; Tashtor sector[129]	; Castilon system[5]	; Chelidae[130]	; Unknown
+Catadra[131]	; Deep Core[131]	; Unknown	; Cerberon system[131]	; Unknown	; Unknown
+Cato Neimoidia[132]	; Colonies[5]	; Quellor sector[5]	; Cato Neimoidia system[5]	; Neimoidians[132]	; Unknown
+Cavas[133]	; Core Worlds[133]	; Bormea sector[133]	; Brentaal System[133]	; Unknown	; Unknown
+Celwis[134]	; Unknown Regions[134]	; Unknown	; Unknown	; Unknown	; Unknown
+Cerea[135]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Cerean[135]	; Unknown
+Cermau[9]	; Outer Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+CeSai[136]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Chaaktil[137]	; Inner Rim Territories[9]	; Unknown	; Unknown	; Humans[137]	; Unknown
+Chad[138]	; Outer Rim Territories[138]	; Unknown	; Unknown	; Chadra-Fan[138]	; Unknown
+Chadawa[139]	; Unknown	; Croynar sector[139]	; Chadawa system[139]	; Unknown	; Unknown
+Chagar IX[140]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Chal Hudda[30]	; Outer Rim Territories[30]	; Unknown	; Unknown	; Chalhuddan[30]	; Unknown
+Chalacta[141]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Chalactans[141]	; Unknown
+Champala[37]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Chagrians[142]	; Tidros[143]
+Chandar's Folly[144]	; Outer Rim Territories[144]	; Unknown	; Unknown	; Unknown	; Unknown
+Chandel[145]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Chandrila[61]	; Core Worlds[11]	; Bormea sector[146]	; Chandrila system[133]	; Humans,[5] Pantorans[26]	; Hanna City[26]
+Chasmeene[30]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Chibbier[14]	; Outer Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Cholganna[5]	; Outer Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Chommell Minor[94]	; Mid Rim Territories[94]	; Chommell sector[94]	; Unknown	; Unknown	; Unknown
+Chorin[147]	; Unknown	; Unknown	; Unknown	; Humans[148]	; Unknown
+Christophsis[149]	; Outer Rim Territories[11]	; Savareen sector[7]	; Christoph system[7]	; Unknown	; Unknown
+Chrona[150]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Cianap[151]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Clerion[152]	; Unknown	; Unknown	; Unknown	; None[152]	; Unknown
+Codia[9]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Colla IV[153]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Colicoid[5]	; Unknown
+Commenor[source?]	; Colonies	; Unknown	; Unknown	; Unknown	; Unknown
+Cona[58]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Arcona[58]	; Unknown
+Concord Dawn[154]	; Outer Rim Territories[5]	; Mandalore sector[5]	; Concord Dawn system[154]	; Humans[155]	; Unknown
+The Contessa's homeworld[156]	; Unknown	; Unknown	; Unknown	; Humans[157]	; Unknown
+Corellia[158]	; Core Worlds[5]	; Corellian sector[5]	; Corellia system[5]	; Humans (Corellian),[49] Various[57]	; Coronet City[26]
+Corulag[116]	; Core Worlds[150]	; Unknown	; Unknown	; Humans[116]	; Unknown
+Coruscant[159]	; Core Worlds[5]	; Corusca sector, Coruscant subsector[5]	; Coruscant system[7]	; Various[160]	; Galactic City[5]
+Corvus[161]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Cos Secundu[162]	; Deep Core[162]	; Cosian Space[162]	; Unknown	; Nu-Cosian[162]	; Unknown
+Cosia[163]	; Deep Core[163]	; Cosian Space[5]	; Cosia system[163]	; Cosian[163]	; Unknown
+Cosmatanic Steppes gas giant[164]	; Outer Rim Territories[164]	; Unknown	; Unknown	; Unknown	; Unknown
+Council[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Courtsilius[122]	; Core Worlds[122]	; Unknown	; Hosnian system[122]	; Unknown	; Unknown
+Coyerti[49]	; Mid Rim Territories[49]	; Unknown	; Unknown	; Coyerti[49]	; Unknown
+Crait[30]	; Outer Rim Territories[24]	; Unknown	; Crait system[30]	; Unknown	; Unknown
+Crucival[49]	; Outer Rim Territories[49]	; Tion Hegemony[49]	; Unknown	; Unknown	; Unknown
+Crul[165]	; Mid Rim Territories[8]	; Unknown	; Unknown	; Crolutes, Gilliands[165]	; Unknown
+Csilla[42]	; Unknown Regions[11]	; Unknown	; Csilla system[71]	; Chiss[58]	; Unknown
+Cuyacan[9]	; Expansion Region[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Cyclor[166]	; Mid Rim Territories[166]	; Unknown	; Unknown	; Cyclorrians[166]	; Unknown
+Cyphar[50]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Cyphari[50]	; Unknown
+Cyrkon[167]	; Outer Rim Territories[167]	; Hutt Space[167]	; Unknown	; Unknown	; Motok[167]
+Czerialus[168]	; Unknown	; Unknown	; Unknown	; Czerialan[168]	; Unknown
+D
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Daghee[166]	; Unknown	; Unknown	; Unknown	; Humans[166]	; Unknown
+Dagobah[97]	; Outer Rim Territories[5]	; Sluis sector[5]	; Dagobah system[97]	; Tash,[169] Yoda's species[97]	; Unknown
+Daivak[170]	; Outer Rim Territories[170]	; Unknown	; Unknown	; Unknown	; Unknown
+Dallenor[171]	; Mid Rim Territories[171]	; Unknown	; Unknown	; Unknown	; Unknown
+Dalna[172]	; Outer Rim Territories[172]	; Dalnan sector[172]	; Unknown	; Various[172]	; Dalnan capital[172]
+Dandoran[173]	; Unknown	; Hutt Space[174]	; Doran system[174]	; Unknown	; Unknown
+Dantooine[1]	; Outer Rim Territories[106]	; Raioballo sector[105]	; Dantooine system[157]	; Humans[28]	; Unknown
+Darlyn Boda[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Daro[175]	; Outer Rim Territories[175]	; Unknown	; Unknown	; Unknown	; Unknown
+Dasoor[26]	; Mid Rim Territories[26]	; Unknown	; Unknown	; Unknown	; Unknown
+Dathomir[176]	; Outer Rim Territories[106]	; Quelli sector[5]	; Dathomir system[5]	; Fromprath (later exiled),[177] Zabraks (Dathomirian)[176]	; Unknown
+Davnar II[9]	; Core Worlds[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Daxam IV[84]	; Outer Rim Territories[84]	; Unknown	; Unknown	; Unknown	; Unknown
+Daxan Beta[178]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+The Deep[22]	; Unknown Regions[22]	; Unknown	; Unknown	; Unknown	; Unknown
+Delphon[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Delrian Prison Planet[179]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Demir[180]	; Unknown Regions[180]	; Unknown	; Unknown	; Demirians[180]	; Unknown
+Denash[50]	; Outer Rim Territories[50]	; Batonn sector[50]	; Unknown	; Unknown	; Unknown
+Denon[181]	; Inner Rim Territories[181]	; Unknown	; Denon system[181]	; Humans[5]	; Unknown
+Dermos[26]	; Outer Rim Territories[26]	; Unknown	; Unknown	; Unknown	; Unknown
+Devaron[32]	; Colonies[32]	; Duluur sector[32]	; Devaron system[182]	; Devaronians[183]	; Montellian Serat[32]
+Dhandu[9]	; Expansion Region[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Dianth[184]	; Unknown	; Unknown	; Malitoris system[184]	; Unknown	; Unknown
+Dinwa Prime[185]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Dinzo[186]	; Mid Rim Territories[186]	; Unknown	; Unknown	; Unknown	; Unknown
+Distilon[156]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Dol'har Hyde[187]	; Outer Rim Territories[187]	; Unknown	; Unknown	; Unknown	; Unknown
+Dorin[8]	; Expansion Region[8]	; Unknown	; Unknown	; Kel Dor[8]	; Unknown
+Dowut[8]	; Core Worlds[8]	; Unknown	; Unknown	; Dowutin[8]	; Unknown
+D'Qar[106]	; Outer Rim Territories[106]	; Sanbra sector[5]	; Ileenium system[188]	; Unknown	; Unknown
+Drahgor III[189]	; Unknown	; Unknown	; Unknown	; Gozzo[189]	; Unknown
+Durkteel[190]	; Mid Rim Territories[190]	; Unknown	; Durkteel system[146]	; Saurins[190]	; Unknown
+Duro[191]	; Core Worlds[191]	; Duro sector[34]	; Unknown	; Duros[191]	; Unknown
+Dwartii[9]	; Inner Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Dybbron III[139]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Dybrin[9]	; Deep Core[9]	; Unknown	; Unknown	; Unknown	; Unknown
+E
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Eadu[76]	; Outer Rim Territories[192]	; Bheriz sector[105]	; Eadu system[76]	; Humans[76]	; Unknown
+Earth[93]	; Outer Rim Territories[93]	; Oplovis sector[93]	; Heaven system[93]	; Unknown	; Unknown
+Edis VII[193]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Egips[194]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Eiram[195]	; Outer Rim Territories[195]	; Unknown	; Unidentified star system[195]	; Humans[195]	; Unknown
+Elkeenar[196]	; Outer Rim Territories[196]	; Unknown	; Penagosis system[196]	; Unknown	; Unknown
+Elom[197]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Elom,[58] Elomin[197]	; Unknown
+Elphrona[198]	; Outer Rim Territories[198]	; Unknown	; Elphrona system[3]	; Unknown	; Unknown
+Empress Teta[32]	; Deep Core[11]	; Koros sector[32]	; Empress Teta system[32]	; Unknown	; Cinnagar[32]
+Endor[25]	; Outer Rim Territories[25]	; Moddell sector[25]	; Endor system[25]	; Unknown	; Unknown
+Epiphany[37]	; Outer Rim Territories[37]	; Corporate Sector[37]	; Salient system[37]	; Unknown	; Unknown
+Eriadu[54]	; Outer Rim Territories[11]	; Seswenna sector[54]	; Eriadu system[3]	; Humans, Rodians[54]	; Eriadu City[54]
+Er'Kit[174]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Er'Kit[174]	; Unknown
+E'ronoh[195]	; Outer Rim Territories[195]	; Unknown	; Unidentified star system[195]	; Pantorans[195]	; Unknown
+Eroudac[14]	; Mid Rim Territories[14]	; Unknown	; Unknown	; Unknown	; Unknown
+Ertegas[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Eshan[168]	; Unknown	; Unknown	; Unknown	; Humans[5]	; Unknown
+Espinar[192]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Espirion[199]	; Unknown	; Unknown	; Unknown	; Alder-Espirions, Espirions[199]	; Unknown
+Esseles[133]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Etti IV[104]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Eufornis Major[200]	; Core Worlds[200]	; Unknown	; Unknown	; Unknown	; Unknown
+Eufornis Minor[200]	; Outer Rim Territories[200]	; Unknown	; Unknown	; Humans[200]	; Unknown
+Exegol[25]	; Unknown Regions[25]	; Unknown	; Exegol system[25]	; Unknown	; Unknown
+Ezaraa[201]	; Unknown	; Unknown	; Unknown	; Ezaraa[201]	; Unknown
+F
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Falleen[54]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Falleen[202]	; Unknown
+Farhava Beta[193]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Fedalle[131]	; Core Worlds[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Fedovoi End[139]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Feenix[146]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Felucia[203]	; Outer Rim Territories[11]	; Thanium sector[27]	; Felucia system[204]	; Felucians,[203] Jungle Felucians[205]	; Unknown
+Fermic[206]	; Outer Rim Territories[206]	; Unknown	; Unknown	; Unknown	; Unknown
+Fest[192]	; Outer Rim Territories[146]	; Atrivis sector[146]	; Unknown	; Humans[192]	; Unknown
+Fillithar[30]	; Unknown	; Unknown	; Unknown	; Fillithar[30]	; Unknown
+Florrum[207]	; Outer Rim Territories[207]	; Sertar sector[208]	; Unknown	; Various[209]	; Unknown
+Fondor[210]	; Colonies[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Foran Tutha[32]	; Outer Rim Territories[11]	; Tion Cluster[32]	; Unknown	; Unknown	; Unknown
+Frong[211]	; Outer Rim Territories[211]	; Unknown	; Unknown	; Frong[211]	; Unknown
+G
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Gaaten[212]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Gabdor[213]	; Unknown	; Unknown	; Unknown	; Gabdorin[5]	; Unknown
+Galaan[85]	; Outer Rim Territories[85]	; Corva sector[85]	; Galaan system[68]	; Unknown	; Unknown
+Galagolos V[79]	; Colonies[9]	; Unknown	; Unknown	; Cloddogran[79]	; Unknown
+Galidraan[54]	; Outer Rim Territories[11]	; Unknown	; Galidraan system[54]	; Unknown	; Unknown
+Galidraan III[54]	; Outer Rim Territories[11]	; Unknown	; Galidraan system[54]	; Unknown	; Unknown
+Galidraan IV[54]	; Outer Rim Territories[11]	; Unknown	; Galidraan system[54]	; Unknown	; Unknown
+Galmerah[214]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Galpos II[150]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Galzez[215]	; Unknown	; Unknown	; Unknown	; Dugs[215]	; Unknown
+Gamerong[193]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Gamorr[162]	; Outer Rim Territories[66]	; Galov sector[105]	; Unknown	; Gamorreans[66]	; Unknown
+Gan Moradir[26]	; Mid Rim Territories[26]	; Unknown	; Unknown	; Xan[26]	; Unknown
+Gand[66]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Gand[66]	; Unknown
+Ganthel[216]	; Core Worlds[116]	; Unknown	; Unknown	; Humans[116]	; Unknown
+Garel[48]	; Outer Rim Territories[217]	; Lothal sector[5]	; Garel system[5]	; Bith,[218] Humans[219]	; Unknown
+Gargon[220]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Gatalenta[84]	; Core Worlds[9]	; Unknown	; Unknown	; Humans[84]	; Unknown
+Gentes[66]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Ugnaughts[66]	; Unknown
+Geonosis[160]	; Outer Rim Territories[5]	; Arkanis sector[5]	; Geonosis system[5]	; Geonosians[221]	; Stalgasin hive[153]
+Gerrenthum[34]	; Outer Rim Territories[222]	; Anoat sector[222]	; Gerrenthum system[34]	; Unknown	; Unknown
+Gesaral Beta[62]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Ghorman[72]	; Colonies[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Gigor[42]	; Outer Rim Territories[42]	; Tynquay sector[42]	; Unknown	; Gigorans[42]	; Unknown
+Giju[223]	; Colonies[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Gilvaanen[224]	; Inner Rim Territories[224]	; Unknown	; Unknown	; Ithorians[224]	; Unknown
+Glee Anselm[225]	; Mid Rim Territories[11]	; Unknown	; Jalor system[226]	; Anselmi[226], Nautolans[227]	; Unknown
+Gonda[9]	; Outer Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Gorse[116]	; Inner Rim Territories[116]	; Unknown	; Gorse system[116]	; Various[116]	; Unknown
+Gossam[30]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Graf-World[228]	; Wild Space[228]	; Unknown	; Unknown	; Unknown	; Unknown
+Grange[37]	; Unknown	; Rocantor sector[229]	; Unknown	; Humans[37]	; Unknown
+Grizal[166]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Grizmallt[47]	; Core Worlds[47]	; Unknown	; Unknown	; Humans[47]	; Unknown
+Guagenia[9]	; Inner Rim Territories[9]	; Guagenian sector[230]	; Unknown	; Unknown	; Unknown
+Guat'a[196]	; Outer Rim Territories[196]	; Unknown	; Unknown	; Unknown	; Unknown
+GUHL-JO387O[231]	; Outer Rim Territories[231]	; Unknown	; Unknown	; Unknown	; Unknown
+Gutretee[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Gwongdeen[79]	; Colonies[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Gyndine[168]	; Expansion Region[11]	; Circarpous sector[168]	; Unknown	; Unknown	; Unknown
+H
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Hadros[232]	; Outer Rim Territories[232]	; Unknown	; Unknown	; Unknown	; Unknown
+Haidoral Prime[49]	; Mid Rim Territories[49]	; Unknown	; Unknown	; Unknown	; Unknown
+Haileap[172]	; Outer Rim Territories[172]	; Dalnan sector[172]	; Haileap system[172]	; Unknown	; Unknown
+Halcyon[54]	; Colonies[54]	; Unknown	; Unknown	; Unknown	; Unknown
+Haneli[9]	; Expansion Region[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Harkrova I[59]	; Unknown	; Unknown	; Harkrova system[59]	; Unknown	; Unknown
+Harloff Minor[84]	; Core Worlds[84]	; Unknown	; Unknown	; Unknown	; Unknown
+Haruun Kal[66]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Humans,[66] Korun[233]	; Unknown
+Hays Major[70]	; Outer Rim Territories[234]	; Unknown	; Otomok system[70]	; Unknown	; Unknown
+Hays Minor[70]	; Outer Rim Territories[234]	; Unknown	; Otomok system[70]	; Unknown	; Unknown
+Hetzal Prime[3]	; Outer Rim Territories[3]	; Unknown	; Hetzal system[3]	; Unknown	; Aguirre City[3]
+Hevurion[235]	; Unknown	; Unknown	; Unknown	; Humans[25]	; Unknown
+Hinari[26]	; Outer Rim Territories[26]	; Unknown	; Unknown	; Unknown	; Unknown
+Hirara[236]	; Outer Rim Territories[236]	; Unknown	; Five Points system[236]	; Unknown	; Unknown
+Hisseen[95]	; Unknown	; Unknown	; Unknown	; Hisseenians[95]	; Unknown
+Hissrich[237]	; Outer Rim Territories[237]	; Unknown	; Unknown	; Unidentified species[237]	; Unknown
+Horuz[236]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Hosnian[122]	; Core Worlds[122]	; Unknown	; Hosnian system[122]	; Unknown	; Unknown
+Hosnian Prime[238]	; Core Worlds[106]	; Unknown	; Hosnian system[23]	; Humans[84]	; Republic City[238]
+Hosra[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Burnin Konn system[34]	; Unknown	; Unknown
+Hoth[97]	; Outer Rim Territories[239]	; Anoat sector[5]	; Hoth system[97][240]	; Various[97]	; Unknown
+Hovun IV[241]	; Unknown	; Unknown	; Unidentified system[241]	; Various[241]	; Unknown
+Hoxim[134]	; Unknown Regions[134]	; Unknown	; Unknown	; Unknown	; Unknown
+Hudalla[1]	; Unknown	; Unknown	; Hudalla system[1]	; Unknown	; Unknown
+Humbarine[25]	; Core Worlds[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Hynestia[230]	; Colonies[9]	; Unknown	; Unknown	; Humans (Hynestians), Lynna, Mon Calamari[230]	; Unknown
+I
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Iakar[42]	; Outer Rim Territories[42]	; Unknown	; Iakar system[42]	; Iakaru[42]	; Unknown
+Ibaar[48]	; Outer Rim Territories[242]	; Unknown	; Unknown	; Aqualish, Humans, Snivvians[243]	; Unknown
+Iego[244]	; Outer Rim Territories[48]	; Unknown	; Unknown	; Various[245]	; Unknown
+Ikkrukk[246]	; Mid Rim Territories[246]	; Unknown	; Unknown	; Ikkrukkians[246]	; Unknown
+Iktotchon[32]	; Expansion Region[11]	; Narvath sector[32]	; Iktotch system[32]	; Unknown	; Unknown
+Iloh[1]	; Unknown	; Unknown	; Unknown	; Humans[1]	; Unknown
+Ilum[247]	; Unknown Regions[5]	; 7G sector[5]	; Ilum system[5]	; Unknown	; Unknown
+Imroosia[5]	; Unknown	; Unknown	; Unknown	; Imroosian[168]	; Unknown
+Imvur[248]	; Unknown	; Unknown	; Hasmir system[248]	; Unknown	; Unknown
+Indoumodo[249]	; Wild Space[153]	; Unknown	; Unknown	; Unknown	; Unknown
+Insk[178]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Inusagi[236]	; Mid Rim Territories[236]	; Unknown	; Unknown	; Humans, Rayeth[236]	; Inusagi's capital city[236]
+Ione[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Ione system[34]	; Unknown	; Unknown
+Irff[250]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Iridonia[251]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Zabraks[251]	; Unknown
+Irudiru[61]	; Unknown	; Unknown	; Irudiru system[61]	; Unknown	; Unknown
+Iskalon[152]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Isobe[252]	; Expansion Region[54]	; Unknown	; Thustra system[252]	; Sephi[252]	; Unknown
+Ison[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Ison system[34]	; Unknown	; Unknown
+Itapi Prime[30]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Ithor[253]	; Mid Rim Territories[106]	; Unknown	; Ottega system[8]	; Ithorians[253]	; Unknown
+Ivarujar[1]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Ivera X[1]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+I'vorcia Prime[254]	; Outer Rim Territories[254]	; Unknown	; Unknown	; Unknown	; Unknown
+Ixilix[255]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+J
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Jaelen[256]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Jafan[94]	; Mid Rim Territories[94]	; Chommell sector[94]	; Unknown	; Jafani[94]	; Unknown
+Jaguada[257]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Jakku[1]	; Western Reaches[258]	; Unknown	; Jakku system[259]	; Teedo, Uthuthma[259]	; Unknown
+Jalindi[260]	; Unknown	; Unknown	; Jalindi system[260]	; Unknown	; Unknown
+Jarbanov[131]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Jaresh[85]	; Outer Rim Territories[85]	; Corva sector[85]	; Unknown	; Kyuzo[85]	; Unknown
+Jaymir[25]	; Unknown	; Unknown	; Unknown	; Humans[25]	; Unknown
+Jekara[261]	; Mid Rim Territories[262]	; Unknown	; Unknown	; Unknown	; Unknown
+Jelucan[1]	; Outer Rim Territories[1]	; Unknown	; Unknown	; Humans, Twi'leks, Falleen[1]	; Valentia[157]
+Jeosyn[17]	; Unknown	; Unknown	; Unknown	; Unidentified species[17]	; Unknown
+Jestefad[263]	; Outer Rim Territories[263]	; Atravis sector[263]	; Mustafar system[263]	; Unknown	; Unknown
+Jeyell[146]	; Mid Rim Territories[146]	; Unknown	; Unknown	; Unknown	; Unknown
+Jhas[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Hoth system[34]	; Unknown	; Unknown
+Jiruus[59]	; Unknown	; Unknown	; Jiruus system[59]	; Jiruusi[59]	; Unknown
+Judakann[196]	; Outer Rim Territories[196]	; Torch Nebula[196]	; Unknown	; Unknown	; Unknown
+K
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+K43[264]	; Wild Space[264]	; Unknown	; Unknown	; Unknown	; Unknown
+Kadavo[48]	; Wild Space[48]	; Unknown	; Kadavo system[265]	; Zygerrians[266]	; Unknown
+Kaddak[267]	; Outer Rim Territories[267]	; Unknown	; Kaddak system[268]	; Unknown	; Unknown
+Kalee[142]	; Wild Space[11]	; Unknown	; Unknown	; Kaleesh[142]	; Unknown
+Kalevala[269]	; Outer Rim Territories[5]	; Mandalore sector[5]	; Mandalore system[269]	; Humans[270]	; Unknown
+Kaller[271]	; Outer Rim Territories[272]	; Unknown	; Kaller system[273]	; Kallerans[271]	; Unknown
+Kal'Shebbol[72]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Kamino[160]	; Extragalactic[263]	; Unknown	; Kamino system[5]	; Kaminoans[160]	; Tipoca City[263]
+Kanzi[37]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Kardoa[274]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Karfeddion[54]	; Mid Rim Territories[11]	; Senex sector[54]	; Unknown	; Unknown	; Unknown
+Karkaris[27]	; Outer Rim Territories[27]	; Nilgaard sector[27]	; Unknown	; Karkarodons[5]	; Unknown
+Karlinus[113]	; Mid Rim Territories[113]	; Chommell sector[113]	; Unknown	; Humans, Rodians[113]	; Unknown
+Kartoosh[37]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Kashyyyk[29]	; Mid Rim Territories[275]	; Mytaranor sector[5]	; Kashyyyk system[5]	; Wookiees[29]	; Kachirho[7]
+Keitum[50]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Kellux[276]	; Unknown	; Unknown	; Kellux system[276]	; Unknown	; Unknown
+Kerev Doi[1]	; Unknown	; Unknown	; Unknown	; Bodach'i, Humans[1]	; Unknown
+Kergans[277]	; Unknown	; Unknown	; Unknown	; Zeltrons[277]	; Unknown
+Kerkoidia[59]	; Expansion Region[11]	; Unknown	; Unknown	; Kerkoidens[5]	; Unknown
+Kessel[168]	; Outer Rim Territories[5]	; Kessel sector[5]	; Kessel system[5]	; Various[57]	; Unknown
+Kethmandi[278]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Ketzali[9]	; Mid Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Kidron[133]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Kiffex[279]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Kiffar[279]	; Unknown
+Kiffu[5]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Kiffar[279]	; Unknown
+Kijimi[25]	; Mid Rim Territories[25]	; Bryx sector[25]	; Unknown	; Unknown	; Unknown
+Kinoss[71]	; Unknown Regions[71]	; Kinoss system[71]	; Unknown	; Unknown	; Unknown
+Kinrah[280]	; Unknown	; Kinrah system[280]	; Unknown	; Unknown	; Unknown
+Kintan[281]	; Outer Rim Territories[8]	; Hutt Space[8]	; Unknown	; Nikto[281]	; Unknown
+Kintoni[50]	; Outer Rim Territories[50]	; Unknown	; Unknown	; Unknown	; Unknown
+Kinyen[117]	; Expansion Region[11]	; Unknown	; Unknown	; Gran[27]	; Unknown
+Kirdo III[282]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Kitonak[58]	; Unknown
+Kiros[283]	; Expansion Region[48]	; Unknown	; Kiros system[266]	; Togruta[283]	; Unknown
+Kirtarkin[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Kizan[284]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Klatooine[25]	; Outer Rim Territories[11]	; Hutt Space[11]	; Unknown	; Klatooinians[285]	; Unknown
+Klonoid[286]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Klytus V[287]	; Wild Space[287]	; Unknown	; Unknown	; Unknown	; Unknown
+Kol Iben[288]	; Unknown	; Kol Iben system[288]	; Unknown	; Unknown	; Unknown
+Konkiv[289]	; Unknown	; Unknown	; Unknown	; Humans[289]	; Unknown
+Kooriva[54]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Koorivar[54]	; Unknown
+Koorivar homeworld[54]	; Unknown	; Unknown	; Unknown	; Koorivar[54]	; Unknown
+Kortatka[139]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Koshaga[290]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Kotab[291]	; Unknown	; Unknown	; Unknown	; Kotabi[291]	; Unknown
+Kowak[9]	; Outer Rim Territories[11]	; Sevetta sector[220]	; Kowak system[220]	; Mole-flea[22]	; Unknown
+Kreeling[94]	; Mid Rim Territories[94]	; Chommell sector[94]	; Unknown	; Humans[94]	; Unknown
+Kril'Dor[50]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Krownest[292]	; Outer Rim Territories[293]	; Mandalore sector[293]	; New Kleyman system[5]	; Humans[292]	; Unknown
+Krystar[294]	; Unknown	; Unknown	; Unknown	; Ovissians[294]	; Unknown
+Ktath'atn[295]	; Unknown	; Unknown	; Unknown	; Humans[295]	; Unknown
+Kuat[49]	; Core Worlds[106]	; Kuat sector[146]	; Kuat system[49]	; Humans,[17] Kuati[296]	; Unknown
+Kubindi[297]	; Outer Rim Territories[11]	; Unknown	; Ku'Bakai system[75]	; Kubaz[298]	; Unknown
+Kudo[299]	; Unknown	; Corvair sector[300]	; Kudo system[299]	; Unknown	; Unknown
+Kullgroon[301]	; Unknown	; Unknown	; Unknown	; Petrusian[302]	; Unknown
+Kupoh[181]	; Unknown	; Unknown	; Kupoh system[181]	; Kupohans[181]	; Unknown
+L
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Lah'mu[303]	; Outer Rim Territories[192]	; Raioballo sector[105]	; Lah'mu system[5]	; Humans[303]	; Unknown
+Lahn[304]	; Outer Rim Territories[304]	; Unknown	; Unknown	; Various[304]	; Unknown
+Lannik[66]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Lanniks[153]	; Unknown
+Lanteeb[259]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Lanz Carpo[264]	; Core Worlds[264]	; Unknown	; Unknown	; Unknown	; Unknown
+Lasan[305]	; Outer Rim Territories[305]	; Unknown	; Lasan system[306]	; Lasats[183]	; Unknown
+Lateron[101]	; Mid Rim Territories[307]	; Unknown	; Unknown	; Latero[101]	; Unknown
+Lefrani[263]	; Outer Rim Territories[263]	; Atravis sector[263]	; Mustafar system[263]	; Unknown	; Unknown
+Leoxo[195]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Lespectus[308]	; Core Worlds[9]	; Unknown	; Unknown	; Moldwarp[308]	; Unknown
+Lew'el[22]	; Unknown	; Unknown	; Unknown	; Humans (Lew'elans)[22]	; Unknown
+Lexrul[42]	; Mid Rim Territories[42]	; Unknown	; Unknown	; Humans[42]	; Unknown
+Lioaoin heartworld[71]	; Unknown Regions[71]	; Unknown	; Unknown	; Lioaoi[71]	; Unknown
+Lira San[306]	; Wild Space[306]	; Unknown	; Lira San system[309]	; Lasats[306]	; Unknown
+Li-Toran[8]	; Inner Rim Territories[8]	; Unknown	; Unknown	; Melittos[8]	; Unknown
+Livno III[230]	; Wild Space[230]	; Unknown	; Unknown	; Lynna[230]	; Unknown
+Llanic[181]	; Outer Rim Territories[11]	; Unknown	; Llanic system[181]	; Unknown	; Unknown
+Lokori[37]	; Unknown	; Unknown	; Unknown	; Lokori[37]	; Fucallpa[37]
+Lola Sayu[48]	; Outer Rim Territories[5]	; Belderone sector[5]	; Lola Sayu system[5]	; Unknown	; Unknown
+Lolet[30]	; Unknown	; Unknown	; Lolet system[30]	; Unknown	; Unknown
+Lonera[84]	; Expansion Region[30]	; Unknown	; Unknown	; Lonerans[84]	; Unknown
+Lothal[310]	; Outer Rim Territories[311]	; Lothal sector[32]	; Lothal system[32]	; Various[310]	; Capital City[310]
+Lotho Minor[312]	; Outer Rim Territories[5]	; Wazta sector[313]	; Lotho Minor system[313]	; Anacondans,[314] Junkers[315]	; Unknown
+Luprora[316]	; Unknown	; Unknown	; Unknown	; Lupr'or, R'ora[316]	; Unknown
+Lutrillia[9]	; Outer Rim Territories[11]	; Greater Javin[11]	; Unknown	; Lutrillians[58]	; Unknown
+Lysatra[50]	; Wild Space[50]	; Unknown	; Unknown	; Humans[50]	; Unknown
+M
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Mahranee[317]	; Unknown	; Unknown	; Unknown	; Mahran[317]	; Mahranee capital city[317]
+Malachor[318]	; Outer Rim Territories[263]	; Chorlian sector[5]	; Malachor system[5]	; Unknown	; Unknown
+Malastare[319]	; Mid Rim Territories[320]	; Dustig sector[5]	; Malastare system[5]	; Dugs,[320] Grans, Humans[5]	; Unknown
+Maldo Kreis[321]	; Outer Rim Territories[321]	; Unknown	; Unknown	; Unknown	; Unknown
+Malian[38]	; Western Reaches[38]	; Unknown	; Unknown	; Unknown	; Unknown
+Malpaz[37]	; Unknown	; Unknown	; Unknown	; Humans, Iktotchi, Unidentified species[37]	; Malpaz capital city[37]
+Manaan[322]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Selkath[322]	; Unknown
+Mandalore[323]	; Outer Rim Territories[5]	; Mandalore sector[5]	; Mandalore system[324]	; Humans[323]	; Keldabe (formerly),[325] Sundari[323]
+Mannius Eight[20]	; Wild Space[20]	; Unknown	; Unknown	; Unknown	; Unknown
+Manpha[66]	; Outer Rim Territories[66]	; Unknown	; Unknown	; Unknown	; Unknown
+Marca[168]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Mardona III[49]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Maridun[5]	; Outer Rim Territories[5]	; Rolion sector[5]	; Maridun system[5]	; Amani,[153] Lurmen[326]	; Unknown
+Marleyvane[200]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Massoss[134]	; Unknown Regions[134]	; Unknown	; Massoss system[134]	; Unknown	; Unknown
+Mataou[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Mataou system[34]	; Hutts[34]	; Unknown
+Mathas[327]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Mearalis II[328]	; Outer Rim Territories[328]	; Unknown	; Unknown	; Unknown	; Unknown
+Megalox Beta[329]	; Unknown	; Unknown	; Megalox system[330]	; Unknown	; Unknown
+Mek'tradi[59]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Merj[37]	; Unknown	; Unknown	; Unknown	; Morseerians[37]	; Unknown
+Merokia[136]	; Outer Rim Territories[9]	; Unknown	; Unknown	; Various[136]	; Unknown
+Metellos[32]	; Core Worlds[32]	; Unknown	; Unknown	; Unknown	; Unknown
+Mexeluine[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Midarr[187]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Midgor[139]	; Unknown	; Croynar sector[139]	; Unknown	; Unknown	; Unknown
+Mijos[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Mikkia[117]	; Expansion Region[117]	; Unknown	; Unknown	; Mikkians[117]	; Unknown
+Milvayne[331]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Mimban[332]	; Expansion Region[11]	; Circarpous sector[168]	; Circarpous system[5]	; Mimbanese[168]	; Unknown
+Minfar[206]	; Unknown	; Unknown	; Unknown	; Zixon[206]	; Unknown
+Mirial[136]	; Outer Rim Territories[11]	; Unknown	; Mirial system[236]	; Mirialans[5]	; Unknown
+Mirrin Prime[235]	; Unknown	; Mirrin sector[235]	; Mirrin system[235]	; Unknown	; Unknown
+Miser[263]	; Outer Rim Territories[34]	; Anoat sector[34]	; Bespin system[263]	; Unknown	; Unknown
+Mokivj[87]	; Outer Rim Territories[9]	; Unknown	; Mokivj system[87]	; Humans[87]	; Unknown
+Moldour[152]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Molos[143]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Mon Cala[333]	; Outer Rim Territories[5]	; Calamari sector[5]	; Mon Calamari system[333]	; Mon Calamari, Quarren[333]	; Mon Cala city[333]
+Mooga[9]	; Mid Rim Territories[9]	; Unknown	; Unknown	; Moogans[334]	; Unknown
+Moorja[150]	; Unknown	; Unknown	; Unknown	; Humans[150]	; Unknown
+Moraband[335]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Moraga[336]	; Unknown	; Unknown	; Unknown	; Moragans[337]	; Unknown
+Morak[338]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Mordal[26]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Morellia[228]	; Unknown	; Morellian Commonwealth[8]	; Unknown	; Unknown	; Unknown
+Mountain[93]	; Outer Rim Territories[93]	; Oplovis sector[93]	; Heaven system[93]	; Unknown	; Unknown
+Mrinzebon[59]	; Unknown	; Unknown	; Unknown	; Humans[59]	; Greater Xnapolis[59]
+Mulita[339]	; Wild Space[170]	; Unknown	; Mulita system[170]	; Drengir[170]	; Unknown
+Murkhana[54]	; Outer Rim Territories[54]	; Unknown	; Murkhana system[54]	; Various[54]	; Unknown
+Mustafar[29]	; Outer Rim Territories[11]	; Atravis sector[5]	; Mustafar system[29]	; Mustafarians[317]	; Fralideja[153]
+Muunilinst[340]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Muuns[340]	; Unknown
+Mydasos[117]	; Unknown	; Dalicron sector[117]	; Unknown	; Phydolon[117]	; Unknown
+Mygeeto[66]	; Outer Rim Territories[341]	; Albarrio sector[342]	; Mygeeto system[342]	; Lurmen[341]	; Unknown
+Mykapo[343]	; Unknown	; Unknown	; Mykapo system[344]	; Humans[343]	; Unknown
+Myomar[50]	; Expansion Region[50]	; Unknown	; Unknown	; Unknown	; Unknown
+N
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Naalol[26]	; Unknown	; Unknown	; Unknown	; Humans[26]	; Unknown
+Naboo[159]	; Mid Rim Territories[5]	; Chommell sector[5]	; Naboo system[5]	; Elders,[47] Gungans, Humans (Naboo)[159]	; Otoh Gunga (Gungan), Theed (Human)[159]
+Nacon[5]	; Unknown	; Unknown	; Unknown	; Elnacon[58]	; Unknown
+Nacronis[59]	; Unknown	; Unknown	; Nacronis system[59]	; Unknown	; Unknown
+Nag Ubdur[61]	; Outer Rim Territories[61]	; Unknown	; Ubdur system[61]	; Artiodac, Keldar, Ubdurians[61]	; Unknown
+Najan-Rovi[49]	; Mid Rim Territories[49]	; Unknown	; Unknown	; Unknown	; Unknown
+NaJedha[192]	; Mid Rim Territories[192]	; Terrabe sector,[105] Freestanding subsectors[7]	; Jedha system[7]	; Unknown	; Unknown
+Najra-Va[345]	; Unknown Regions[346]	; Sector Epsilon 51-3[347]	; Dassal system[345]	; Unknown	; Unknown
+Nakadia[49]	; Unknown	; Unknown	; Unknown	; Nakadians[211]	; Quarrow[211]
+Nal Hutta[348]	; Outer Rim Territories[106]	; Hutt Space[11]	; Unknown	; Various[349]	; Unknown
+Nam Chorios[54]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Nanth'ri[181]	; Mid Rim Territories[11]	; Unknown	; Nanth'ri system[181]	; Unknown	; Unknown
+Naporar[134]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Nar Kanji[66]	; Outer Rim Territories[106]	; Unknown	; Unknown	; Humans, Hutts,[106] Jablogians[350]	; Unknown
+Naraka[351]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Narq[106]	; Colonies[8]	; Unknown	; Unknown	; Narquois[106]	; Unknown
+Navlaas[352]	; Inner Rim Territories[352]	; Unknown	; Unknown	; Unknown	; Unknown
+Necropolis[353]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Neelanon[354]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Neimoidia[355]	; Colonies[8]	; Unknown	; Unknown	; Neimoidians[8]	; Unknown
+Nelgenam[356]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Nelvaan[47]	; Outer Rim Territories[11]	; Savareen sector[47]	; Unknown	; Nelvaanians[153]	; Unknown
+Nepotis[58]	; Unknown	; Unknown	; Unknown	; Nephrans[58]	; Unknown
+Neral[230]	; Core Worlds[230]	; Corellian sector[230]	; Unknown	; Unknown	; Unknown
+Neralus[172]	; Outer Rim Territories[172]	; Dalnan sector[172]	; Haileap system[172]	; Unknown	; Unknown
+Neskar[357]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Netalych[139]	; Unknown	; Unknown	; Netalych system[139]	; Unknown	; Unknown
+Nettehi[134]	; Unknown Regions[134]	; Unknown	; Unknown	; Paataatus[134]	; Unknown
+Nevarro[358]	; Outer Rim Territories[359]	; Nevarro's sector[360]	; Unknown	; Various[361][362]	; Unknown
+Nimban[72]	; Unknown	; Hutt Space[11]	; Unknown	; Nimbanel[58]	; Unknown
+Ningoth[363]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Nixus[364]	; Unknown	; Unknown	; Unknown	; Aqualish, Rodians, Ugnaughts[365]	; Unknown
+Nixus[172]	; Outer Rim Territories[172]	; Dalnan sector[172]	; Haileap system[172]	; Unknown	; Unknown
+Noctu[366]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Nordis Prime[367]	; Mid Rim Territories[368]	; Tashtor sector[367]	; Unknown	; Unknown	; Unknown
+Nothoiin[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Nothoiins[34]	; Unknown
+Noult[84]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Numidian Prime[57]	; Mid Rim Territories[168]	; Bright Jewel sector[5]	; Numidian system[5]	; Unknown	; Unknown
+Nyriaan[369]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+N'Zoth[105]	; Core Worlds[11]	; Koornacht Cluster[105]	; Unknown	; Unknown	; Unknown
+O
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Oba Diah[370]	; Outer Rim Territories[168]	; Kessel sector[168]	; Kessel system[168]	; Pykes[370]	; Unknown
+Obroa-skai[54]	; Inner Rim Territories[11]	; Unknown	; Obroa-skai system[54]	; Unknown	; Unknown
+Ocahont[30]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Odona[371]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Ogem[106]	; Mid Rim Territories,[11] Western Reaches[106]	; Unknown	; Unknown	; Unknown	; Unknown
+Oktaro[372]	; Unknown	; Unknown	; Unknown	; Humans (Oktarians)[372]	; New Tobura[372]
+Oliu[373]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Omereth[181]	; Outer Rim Territories[181]	; Unknown	; Omereth system[181]	; Unknown	; Unknown
+Onderon[374]	; Inner Rim Territories[375]	; Japrael sector[5]	; Japrael system[5]	; Humans (Onderonian)[153]	; Iziz[374]
+Onod I[9]	; Mid Rim Territories[9]	; Unknown	; Unknown	; Onodone[376]	; Unknown
+Ontotho[377]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Oon[378]	; Outer Rim Territories[378]	; Lothal sector[378]	; Unknown	; Unknown	; Unknown
+Oosalon[379]	; Outer Rim Territories[380]	; Unknown	; Unknown	; Unknown	; Unknown
+Orchis[9]	; Inner Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Ord Cestus[54]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Ord Mantell[5]	; Mid Rim Territories[5]	; Bright Jewel sector[5]	; Bright Jewel system[5]	; Falleens, Humans[7]	; Unknown
+Ord Mynock[381]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Ord Pardron[146]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Ord Tiddell[146]	; Mid Rim Territories[146]	; Unknown	; Unknown	; Unknown	; Unknown
+Ordo[382]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Orish[211]	; Unknown	; Unknown	; Unknown	; Orishen[211]	; Unknown
+Orn Kios[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Orondia[349]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Orra[383]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Orto[58]	; Unknown	; Unknown	; Unknown	; Ortolans[58]	; Unknown
+Orto Plutonia[384]	; Outer Rim Territories[181]	; Sujimis sector[181]	; Pantora system[384]	; Talz[385]	; Unknown
+Oru[386]	; Unknown	; Unknown	; Unknown	; Humans (Oruan)[386]	; Unknown
+Oshira[9]	; Mid Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Osseriton[25]	; Unknown Regions	; Unknown	; Unknown	; Unknown	; Unknown
+Ossus[32]	; Outer Rim Territories[11]	; Auril sector[32]	; Adega system[32]	; Humans[5]	; Unknown
+Oulanne[1]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Ovanis[387]	; Unknown	; Unknown	; Unknown	; Ithorians, Trandoshans[387]	; Unknown
+P
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Pacara[9]	; Mid Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Pamarthe[84]	; Outer Rim Territories[84]	; Unknown	; Unknown	; Humans[84]	; Unknown
+Pam'ba[136]	; Mid Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Pandem Nai[59]	; Unknown	; Unknown	; Pandem Nai system[59]	; Unknown	; Unknown
+Panna[152]	; Outer Rim Territories[152]	; Cronese Mandate[152]	; Unknown	; Unknown	; Unknown
+Parau VI[229]	; Mid Rim Territories[37]	; Unknown	; Unknown	; B'ankora[37]	; Unknown
+Parnassos[9]	; Unknown Regions[9]	; Unknown	; Unknown	; Humans[388]	; Unknown
+Pasaana[25]	; Expansion Region[25]	; Ombakond sector[25]	; Middian system[25]	; Aki-Aki[25]	; Unknown
+Pasher[181]	; Inner Rim Territories[181]	; Unknown	; Unknown	; Humans[181]	; Unknown
+Pastoria[389]	; Outer Rim Territories[389]	; Unknown	; Unknown	; Pastorians[389]	; Unknown
+Patitite Pattuna[48]	; Mid Rim Territories[48]	; Unknown	; Unknown	; Patitites[390]	; Unknown
+Patrolia[391]	; Unknown	; Unknown	; Unknown	; Patrolians[391]	; Unknown
+Paucris Major[30]	; Unknown	; Unknown	; Paucris system[30]	; Unknown	; Unknown
+Pendarr III[192]	; Unknown	; Unknown	; Unknown	; Humans[192]	; Unknown
+Perimako Major[156]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Persis IX[392]	; Expansion Region[392]	; Unknown	; Unknown	; Grindalids[392]	; Unknown
+Petrusia[393]	; Unknown	; Unknown	; Unknown	; Petrusians[393]	; Unknown
+Phateem[117]	; Inner Rim Territories[394]	; Nouane sector[117]	; Unknown	; Unknown	; Unknown
+Phatrong[197]	; Outer Rim Territories[197]	; Unknown	; Unknown	; Kyuzos[197]	; Unknown
+Pheryon[395]	; Inner Rim Territories[395]	; Unknown	; Unknown	; Unknown	; Unknown
+Philaxia[396]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Phindar[54]	; Outer Rim Territories[5]	; Mandalore sector[54]	; Phindar system[54]	; Phindians[5]	; Unknown
+Phorsa Gedd[49]	; Mid Rim Territories[49]	; Unknown	; Unknown	; Unknown	; Unknown
+Pii[54]	; Unknown	; Unknown	; Pii system[152]	; Unknown	; Unknown
+Pijal[397]	; Inner Rim Territories[397]	; Unknown	; Pijal system[397]	; Humans[397]	; Pijal capital city[397]
+Pillio[68]	; Core Worlds[69]	; Unknown	; Jinata system[68]	; Unknown	; Unknown
+Pion[20]	; Wild Space[20]	; Unknown	; Pion system[20]	; Unknown	; Unknown
+Pipada[192]	; Unknown	; Unknown	; Unknown	; Drabatans[192]	; Unknown
+Pippip 3[398]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Plexis[34]	; Core Worlds[34]	; Unknown	; Unknown	; Unknown	; Unknown
+Plin Minor[67]	; Unknown	; Unknown	; Unknown	; Plinovians[67]	; Unknown
+Polis Massa	; Outer Rim Territories	; Subterrel sector	; Polis Massa system	; Kallidahins	; Unknown
+Pollillus[5]	; Unknown	; Unknown	; Unknown	; Troig[58]	; Unknown
+Polmanar[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Polyneus[59]	; Unknown	; Unknown	; Unknown	; Humans[59]	; Unknown
+Ponemah Terminal[213]	; Outer Rim Territories[213]	; Unknown	; Unknown	; Unknown	; Unknown
+Pothor[146]	; Mid Rim Territories[146]	; Unknown	; Unknown	; Unknown	; Unknown
+Prefsbelt IV[42]	; Outer Rim Territories[54]	; Unknown	; Unknown	; Unknown	; Unknown
+Primea[71]	; Unknown Regions[71]	; Unknown	; Primea system[71]	; Vak[71]	; Unknown
+Protobranch[67]	; Core Worlds[67]	; Unknown	; Protobranch system[67]	; Bivall[58]	; Unknown
+Pujool[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Anoat system[34]	; Unknown	; Unknown
+Pzandias[47]	; Mid Rim Territories[105]	; Bryx sector[47]	; Unknown	; Unknown	; Unknown
+Q
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Qhulosk[399]	; Outer Rim Territories[400]	; Unknown	; Unknown	; Qhuloskians[400]	; Unknown
+Qualai[3]	; Outer Rim Territories[3]	; Unknown	; Unknown	; Unknown	; Unknown
+Quarmendy[401]	; Unknown	; Unknown	; Unknown	; Humans[401]	; Unknown
+Quarzite[402]	; Inner Rim Territories[7]	; Unknown	; Unknown	; Belugans, Kage[402]	; Unknown
+Quell[403]	; Outer Rim Territories[326]	; Unknown	; Quell system[326]	; Unknown	; Unknown
+Quermia[5]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Quermians[5]	; Unknown
+Ques[277]	; Unknown	; Hutt Space[277]	; Unknown	; Humans[277]	; Unknown
+Quila[404]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Quintil[196]	; Outer Rim Territories[196]	; Unknown	; Unknown	; Unknown	; Unknown
+R
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Raddan[48]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Radhii[405]	; Unknown	; Unknown	; Unknown	; Cereans, humans[405]	; Unknown
+Raithal[200]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Rajtiri[37]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Rakata Prime[406]	; Unknown Regions[106]	; Unknown	; Unknown	; Unknown	; Unknown
+Ralltiir[146]	; Core Worlds[146]	; Unknown	; Unknown	; Humans[5]	; Unknown
+Rango Tan[407]	; Unknown	; Unknown	; Unknown	; Rangans[407]	; Unknown
+Rapacc[71]	; Unknown Regions[71]	; Rapacc system[71]	; Unknown	; Unknown	; Unknown
+Rattatak[408]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Various[176]	; Unknown
+Raxus Prime[48]	; Outer Rim Territories[48]	; Tion Hegemony[5]	; Raxus system[5]	; Unknown	; Unknown
+Raxus Secundus[54]	; Outer Rim Territories[5]	; Tion Hegemony[5]	; Raxus system[54]	; Gossams, Humans, Siniteen[409]	; Raxulon[317]
+Raydonia[410]	; Outer Rim Territories[410]	; Unknown	; Unknown	; Humans[411]	; Unknown
+Raysho[122]	; Core Worlds[122]	; Unknown	; Hosnian system[122]	; Unknown	; Unknown
+Reamma[412]	; Outer Rim Territories[412]	; Unknown	; Unknown	; Unknown	; Unknown
+Refnu[70]	; Outer Rim Territories[70]	; Unknown	; Refnu system[413]	; Nefrians[70]	; Unknown
+Rekkana[414]	; Unknown	; Unknown	; Unknown	; Rekk[414]	; Unknown
+Rendel[415]	; Unknown	; Unknown	; Kiva system[415]	; Unknown	; Unknown
+Rentor[71]	; Unknown Regions[71]	; Unknown	; Unknown	; Unknown	; Unknown
+Retta[416]	; Wild Space[416]	; Unknown	; Unknown	; Unknown	; Unknown
+Rhen Var[5]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Rhinnal[166]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Riflor[58]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Advozse[417]	; Unknown
+Rina Major[162]	; Outer Rim Territories[162]	; Unknown	; Unknown	; Blarina[162]	; Unknown
+Ringo Vinda[48]	; Mid Rim Territories[48]	; Unknown	; Unknown	; Humans[397]	; Unknown
+Rinn[365]	; Unknown	; Unknown	; Unknown	; Humans[66]	; Unknown
+Rion[418]	; Outer Rim Territories[418]	; Unknown	; Unknown	; Unknown	; Unknown
+Riosa[84]	; Inner Rim Territories[84]	; Unknown	; Unknown	; Unknown	; Unknown
+Rishi[332]	; Outer Rim Territories[332]	; Abrion sector[5]	; Rishi system[332]	; Unknown	; Unknown
+Risso[9]	; Expansion Region[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Roche	; Mid Rim Territories	; Unknown	; Unknown	; Verpine	; Unknown
+Rodia[419]	; Outer Rim Territories[420]	; Savareen sector[7]	; Tyrius system[7]	; Rodians[419]	; Unknown
+Ronika[32]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Routh[232]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Rumitaka[236]	; Outer Rim Territories[236]	; Unknown	; Five Points system[236]	; Unknown	; Unknown
+Ruoss Minor[30]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Rushan IX[421]	; Unknown	; Unknown	; Unknown	; Trawaki[421]	; Unknown
+Ruusan[48]	; Mid Rim Territories[7]	; Teraab sector[422]	; Ruusan system[423]	; Unknown	; Unknown
+Ryloth[48]	; Outer Rim Territories[424]	; Gaulus sector[5]	; Ryloth system[424]	; Twi'leks[424]	; Lessu[425]
+Rystan[166]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+S
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Safrifa[166]	; Outer Rim Territories[166]	; Unknown	; Unknown	; Safrifans[166]	; Unknown
+Saki[8]	; Outer Rim Territories[8]	; Hutt Space[8]	; Unknown	; Sakiyans[8]	; Unknown
+Saleucami[5]	; Outer Rim Territories[5]	; Suolriep sector[5]	; Saleucami system[5]	; Humans, Twi'leks[426]	; Unknown
+Salient I[37]	; Outer Rim Territories[37]	; Corporate Sector[37]	; Salient system[37]	; Various[37]	; Unknown
+Salient II[37]	; Outer Rim Territories[37]	; Corporate Sector[37]	; Salient system[37]	; Various[37]	; Unknown
+Salliche[67]	; Core Worlds[67]	; Unknown	; Unknown	; Sallichens[67]	; Unknown
+Sammun[50]	; Outer Rim Territories[50]	; Batonn sector[50]	; Unknown	; Unknown	; Unknown
+Samovar[37]	; Western Reaches[37]	; Unknown	; Unknown	; Unknown	; Unknown
+Sanjin[427]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Sarka[428]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Sarkans[428]	; Unknown
+Sarrish[5]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Sarvchi[71]	; Unknown Regions[71]	; Unkown	; Unknown	; Unknown	; Unknown
+Satotai[236]	; Outer Rim Territories[236]	; Unknown	; Five Points system[236]	; Unknown	; Unknown
+Savareen[429]	; Outer Rim Territories[24]	; Savareen sector[5]	; Savareen system[5]	; Humans (Savarian)[168]	; Unknown
+Scarif[192]	; Outer Rim Territories[192]	; Abrion sector[105]	; Scarif system[5]	; Humans[192]	; Unknown
+Scipio[5]	; Outer Rim Territories[7]	; Albarrio sector[5]	; Albarrio system[5]	; Humans, Muuns[430]	; Unknown
+Secundus Ando[27]	; Mid Rim Territories[27]	; Unknown	; Unknown	; Harch[27]	; Unknown
+Sedratis[181]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Sedri[431]	; Unknown	; Periphery[431]	; Sedri system[431]	; Unknown	; Unknown
+Sedri Minor[431]	; Unknown	; Periphery[431]	; Sedri system[431]	; Various[431]	; Unknown
+Seelos[432]	; Outer Rim Territories[433]	; Kwymar sector[433]	; Seelos system[432]	; Humans (clones)[432]	; Unknown
+Selonia[5]	; Core Worlds[5]	; Corellian sector[5]	; Corellia system[193]	; Selonians[78]|Unknown
+Sembla[38]	; Outer Rim Territories[11]	; Mahrusha sector[38]	; Unknown	; Vurk[38]	; Unknown
+Serelia[434]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Serenno[67]	; Outer Rim Territories[11]	; Unknown	; Serenno system[67]	; Humans (Serennian)[67]	; Unknown
+Sergia[264]	; Inner Rim Territories[264]	; Unknown	; Unknown	; Unknown	; Unknown
+Serralonis[435]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Sesid[85]	; Outer Rim Territories[85]	; Corva sector[85]	; Sesid system[85]	; Draedans[85]	; Unknown
+Setor[196]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Sevarcos[61]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Seylott[152]	; Outer Rim Territories[152]	; Unknown	; Unknown	; Unknown	; Unknown
+Sha Qarot[181]	; Deep Core[181]	; Unknown	; Sha Qarot system[181]	; Unknown	; Unknown
+Shadda-Bi-Boran[113]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Shantipole[243]	; Mid Rim Territories[7]	; Unknown	; Unknown	; Mon Calamari[243]	; Unknown
+Shihon[134]	; Unknown Regions[134]	; Unknown	; Unknown	; Unknown	; Unknown
+Shili[436]	; Expansion Region[11]	; Unknown	; Shili system[30]	; Togruta[436]	; Unknown
+Shownar[196]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Shuraden[437]	; Galactic Frontier[437]	; Unknown	; Unknown	; Ximpi[437]	; Unknown
+Shu-Torun[438]	; Mid Rim Territories[438]	; Unknown	; Unknown	; Humans[438]	; Unknown
+Sibensko[84]	; Expansion Region[84]	; Unknown	; Unknown	; Humans, Nikto[84]	; Unknown
+Sirpar[62]	; Unknown	; Unknown	; Unknown	; Humans[62]	; Unknown
+Sissubo[133]	; Core Worlds[11]	; Bormea sector[439]	; Chandrila system[439]	; Unknown	; Unknown
+Skako[440]	; Core Worlds[11]	; Unknown	; Unknown	; Skakoans[440]	; Unknown
+Skako Minor[441]	; Unknown	; Unknown	; Unknown	; Poletecs, Skakoans[442]	; Unknown
+Skaradosh[199]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Skorii-Lei[443]	; Unknown	; Unknown	; Unknown	; Humans[443]	; Unknown
+Skuhl[236]	; Outer Rim Territories[236]	; Unknown	; Unknown	; Unknown	; Unknown
+Sleheyron	; Outer Rim Territories	; Hutt Space	; Unknown	; Unknown	; Unknown
+Soika[444]	; Unknown	; Unknown	; Unknown	; Soikans[444]	; Unknown
+Solitair[71]	; Unknown Regions[71]	; Unknown	; Unknown	; Garwians[71]	; Unknown
+Son-tuul[445]	; Outer Rim Territories[445]	; Albarrio sector[446]	; Unknown	; Various[445]	; Unknown
+Sorgal 12[447]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Sorgan[448]	; Outer Rim Territories[196]	; Unknown	; Unknown	; Unknown	; Unknown
+Spalex[449]	; Outer Rim Territories[450]	; Unknown	; Unknown	; Unidentified species[449]	; Unknown
+Spira[166]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Sposia[134]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Sriluur[153]	; Outer Rim Territories[8]	; Hutt Space[8]	; Unknown	; Weequays[153]	; Unknown
+Sterdic IV[451]	; Unknown	; Unknown	; Unknown	; Unidentified species[451]	; Unknown
+Stivic[71]	; Unknown Regions[71]	; Unknown	; Unknown	; Garwians[71]	; Unknown
+Strokill Prime[452]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Sturg Ganna's homeworld[453]	; Unknown	; Unknown	; Unknown	; Whippomorn[453]	; Unknown
+Stygeon Prime[454]	; Outer Rim Territories[455]	; Nuiri sector[433]	; Stygeon system[456]	; Unknown	; Unknown
+Suba[37]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Subterrel[72]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Sullust[457]	; Outer Rim Territories[457]	; Sullust sector[54]	; Sullust system[176]	; Sullustans[458]	; Unknown
+Sunrise[134]	; Unknown Regions[134]	; Unknown	; Unknown	; The Magys species[134]	; Unknown
+T
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Taanab[167]	; Inner Rim Territories[11]	; Unknown	; Taanab system[459]	; Unknown	; Unknown
+Tah'Nuhna[460]	; Mid Rim Territories[460]	; Unknown	; Unknown	; Tah'Nuhna[460]	; Unknown
+Takobo[461]	; Unknown	; Unknown	; Unknown	; Ithorians[462]	; Takobo City[461]
+Takodana[23]	; Western Reaches, Mid Rim[106]	; Tashtor sector[106]	; Takodana system[5]	; Unknown	; Unknown
+Talus[78]	; Core Worlds[78]	; Corellian sector[78]	; Corellia system[78]	; Unknown	; Unknown
+Tammuz-an[296]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Tamsye Prime[236]	; Outer Rim Territories[236]	; Unknown	; Tamsye Prime system[236]	; Unknown	; Unknown
+Tangenine[49]	; Core Worlds[49]	; Unknown	; Unknown	; Unknown	; Unknown
+Tansyl 5[367]	; Unknown	; Unknown	; Unknown	; Frigosian[367]	; Unknown
+Taris[211]	; Outer Rim Territories[54]	; Unknown	; Unknown	; Humans,[106] Kubaz[26]	; Unknown
+Tarsunt[72]	; Mid Rim Territories[106]	; Unknown	; Tarsunt system[106]	; Tarsunts[72]	; Unknown
+Tatooine[28]	; Outer Rim Territories[463]	; Arkanis sector[5]	; Tatoo system[5]	; Jawas, Tusken Raiders,[153] Various[28]	; Unknown
+Taul[9]	; Outer Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Tehar[5]	; Unknown	; Unknown	; Unknown	; Humans[464]	; Unknown
+Tei-Untis[34]	; Unknown	; Unknown	; Unknown	; Zabraks[34]	; Unknown
+Telerath[117]	; Inner Rim Territories[11]	; Nouane sector[117]	; Telerath system[59]	; Various[465]	; Unknown
+Tepasi[9]	; Core Worlds[9]	; Unknown	; Unknown	; Humans[5]	; Unknown
+Teralov[42]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Teth[466]	; Wild Space[466]	; Baxel sector[5]	; Teth system[5]	; Hutts[467]	; Unknown
+Tevel[368]	; Unknown	; Unknown	; Unknown	; Tevellans[368]	; Unknown
+Thabeska[468]	; Outer Rim Territories[468]	; Unknown	; Thabeska system[468]	; Unknown	; Unknown
+Theron[84]	; Unknown	; Unknown	; Theron system[84]	; Unknown	; Unknown
+Thisspias[38]	; Expansion Region[11]	; Unknown	; Unknown	; Thisspiasians[5]	; Unknown
+Tholoth[38]	; Colonies[38]	; Unknown	; Tholoth system[38]	; Tholothians[38]	; Unknown
+Thrad[118]	; Unknown	; Unknown	; Unknown	; Thradians[118]	; Unknown
+Throffdon[9]	; Inner Rim Territories[9]	; Unknown	; Throffdon system[79]	; Unknown	; Unknown
+Thunder[93]	; Outer Rim Territories[93]	; Oplovis sector[93]	; Heaven system[93]	; Unknown	; Unknown
+Thune[350]	; Wild Space[350]	; Unknown	; Unknown	; Various[350]	; Unknown
+Thustra[54]	; Expansion Region[54]	; Unknown	; Thustra system[54]	; Unknown	; Unknown
+Thyferra[5]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Vratix[5]	; Unknown
+Tibrin[469]	; Mid Rim Territories[11]	; Hadar sector[470]	; Unknown	; Ishi Tib[469]	; Tibrina[470]
+Tierfon[471]	; Mid Rim Territories[471]	; Unknown	; Unknown	; Unknown	; Unknown
+Tiferep Major[472]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Tiikae[473]	; Unknown	; Unknown	; Unknown	; Various[473]	; Unknown
+Tinnel IV[5]	; Core Worlds[474]	; Unknown	; Unknown	; Humans[5]	; Val Denn[77]
+Tish[475]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Tokmia[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Unknown	; Unknown	; Unknown
+Toledian[9]	; Mid Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Toola[66]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Whiphids[66]	; Unknown
+Toprawa[476]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Touksingal[22]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Toydaria[477]	; Mid Rim Territories[477]	; Hutt Space[477]	; Toydaria system[478]	; Toydarians[478]	; Unknown
+Tralus[78]	; Core Worlds[78]	; Corellian sector[78]	; Corellia system[78]	; Unknown	; Unknown
+Trandosha[479]	; Mid Rim Territories[48]	; Mytaranor sector[48]	; Kashyyyk system[48]	; Trandoshans[480]	; Unknown
+Trasse[146]	; Mid Rim Territories[146]	; Unknown	; Unknown	; Unknown	; Unknown
+Triffis[481]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Trionak[482]	; Outer Rim Territories[482]	; Kiax Nebula, Anoat sector[482]	; Unknown	; Unknown	; Unknown
+Trivar II[75]	; Outer Rim Territories[75]	; Unknown	; Unknown	; Unknown	; Unknown
+Troiken[5]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Xexto[5]	; Unknown
+Troithe[131]	; Deep Core[131]	; Unknown	; Cerberon system[131]	; Unknown	; Unknown
+Trymant IV[483]	; Outer Rim Territories[483]	; Unknown	; Trymant system[483]	; Various[483]	; Unknown
+Tsevuka[224]	; Outer Rim Territories[224]	; Unknown	; Unknown	; Tsevukans[224]	; Unknown
+Tund[484]	; Outer Rim Territories[11]	; Centrality[11]	; Tund system[485]	; Toongs[58]	; Unknown
+Tureen VII[486]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Twon Ketee[276]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Tyegin[487]	; Unknown	; Unknown	; Unknown	; Various[487]	; Unknown
+Tynna[60]	; Expansion Region[11]	; Unknown	; Unknown	; Tynnans[146]	; Unknown
+Tython[32]	; Deep Core[11]	; Unknown	; Unknown	; Unknown	; Unknown
+U
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Ubardia[106]	; Unknown	; Unknown	; Unknown	; Humans[106]	; Unknown
+Ubduria[8]	; Inner Rim Territories[8]	; Unknown	; Unknown	; Ubdurians[8]	; Unknown
+Uchinao[236]	; Outer Rim Territories[236]	; Unknown	; Five Points system[236]	; Unknown	; Unknown
+Ukio[218]	; Outer Rim Territories[11]	; Abrion sector[218]	; Unknown	; Ukians[218]	; Unknown
+Umbara[488]	; Expansion Region[488]	; Ghost Nebula sector[488]	; Umbara system[488]	; Umbarans[488]	; Umbaran capital city[488]
+Umme[9]	; Outer Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified agricultural planet[116]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified backwater icy planet[3]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified city planet[489]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified desert planet[490]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified forest planet[489]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified Gank homeworld[8]	; Outer Rim Territories[8]	; Hutt Space[8]	; Unknown	; Ganks[8]	; Unknown
+Unidentified gas giant (Sentinel Base)[54]	; Outer Rim Territories[54]	; Arkanis sector[54]	; Sentinel Base system[54]	; Unknown	; Unknown
+Unidentified green planet[491]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified jungle planet[492]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified lava planet[489]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified night world[493]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified ocean planet[494]	; Unknown	; Unknown	; Unknown	; Unidentified aquatic species[494]	; Unknown
+Unidentified Outer Rim planet (Jenra)[495]	; Outer Rim Territories[495]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified Outer Rim planet (Jul Jerjerrod)[77]	; Outer Rim Territories[77]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified Outer Rim planet (Slitherette)[496]	; Outer Rim Territories[496]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Bylsma)[497]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Cora Vessora)[61]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Dene Gois Cluster)[498]	; Unknown	; Unknown	; Dene Gois Cluster[498]	; Unknown	; Unknown
+Unidentified planet (Dragon Void Run)[499]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Drengir)[195]	; Unknown	; Unknown	; Unknown	; Drengir[195]	; Unknown
+Unidentified planet (droid uprising)[500]	; Wild Space[500]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Eeth Koth)[501]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Emil Graf)[502]	; Wild Space[502]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Freidal)[503]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Han Solo)[504]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Havoc Outpost)[505]	; Outer Rim Territories[505]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Horizon Base)[506]	; Outer Rim Territories[507]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Ilum system)[468]	; Unknown Regions[5]	; 7G sector[5]	; Ilum system[5]	; Unknown	; Unknown
+Unidentified planet (Jaxxon)[508]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Kanina Nico)[399]	; Unknown	; Unknown	; Huru system[399]	; Humans[399]	; Unknown
+Unidentified planet (Klikklak)[503]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Lexim)[509]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Live islands)[502]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Lupr'or)[316]	; Unknown	; Unknown	; Unknown	; Lupr'or[316]	; Unknown
+Unidentified planet (Magna Tolvan)[510]	; Outer Rim Territories[511]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Monsua Nebula)[512]	; Outer Rim Territories[108]	; Moddell sector[512]	; Monsua Nebula[512]	; Unknown	; Unknown
+Unidentified planet (Neijaian)[513]	; Unknown	; Unknown	; Unknown	; Unidentified species[513]	; Unknown
+Unidentified planet (Nes Ukul)[514]	; Unknown	; Unknown	; Unknown	; Unidentified species[514]	; Unknown
+Unidentified planet (Outer Rim Territories)[468]	; Outer Rim Territories[468]	; Unknown	; Thabeska system[468]	; Unknown	; Unknown
+Unidentified planet (Poe Dameron)[515]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Raada)[468]	; Outer Rim Territories[468]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (sabacc)[516]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Sunshi system)[236]	; Unknown	; Unknown	; Sunshi system[236]	; Unknown	; Unknown
+Unidentified planet (Tholme and Ventress)[317]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Thrawn's exile)[50]	; Wild Space[50]	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified planet (Vagadarr system)[517]	; Unknown	; Unknown	; Vagadarr system[518]	; Unknown	; Unknown
+Unidentified purple gas giant[85]	; Unknown	; Unknown	; Unidentified star system[85]	; Unknown	; Unknown
+Unidentified ringed planet[519]	; Unknown	; Regani sector[519]	; Unknown	; Unknown	; Unknown
+Unidentified Snee homeworld[496]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Unidentified Squamatan homeworld[395]	; Unknown	; Unknown	; Unknown	; Squamatans[395]	; Unknown
+Unidentified uninhabited volcanic planet[54]	; Unknown	; Unknown	; Unidentified volcanic planet system[54]	; Unknown	; Unknown
+Uquine[200]	; Colonies[200]	; Unknown	; Unknown	; Humans[200]	; Unknown
+Urajab[14]	; Expansion Region[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Urch[71]	; Unknown Regions[71]	; Unknown	; Urch system[71]	; Urchiv-ki[71]	; Unknown
+Uro[397]	; Unknown	; Unknown	; Unknown	; Unidentified species[397]	; Unknown
+Ushruu[372]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Utapau[29]	; Outer Rim Territories[5]	; Tarabba sector[5]	; Utapau system[5]	; Amani,[520] Pau'ans,[263] Sugi,[521] Utai[263]	; Pau City[153]
+Uvena Prime[197]	; Outer Rim Territories[197]	; Unknown	; Uvena system[197]	; Shistavanens[197]	; Unknown
+Uyter[26]	; Unknown	; Unknown	; Unknown	; Humans[106]	; Central City[26]
+V
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Valahari[47]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Vallt[37]	; Outer Rim Territories[37]	; Unknown	; Unknown	; Valltii[37]	; Unknown
+Valo[166]	; Outer Rim Territories[166]	; Rseik sector[166]	; Valo system[166]	; Various[166]	; Lonisa City[166]
+Valtos[522]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Vandor[57]	; Mid Rim Territories[168]	; Sloo sector[193]	; Unknown	; Unknown	; Unknown
+Vanqor[209]	; Outer Rim Territories[209]	; Unknown	; Vanqor system[209]	; Unknown	; Unknown
+Vardos[17]	; Core Worlds[9]	; Unknown	; Jinata system[17]	; Aqualish, Humans[17]	; Kestro[17]
+Varkana[523]	; Unknown	; Unknown	; Varkana system[523]	; Unknown	; Unknown
+Var-Shaa[524]	; Mid Rim Territories[524]	; Unknown	; Unknown	; Unknown	; Unknown
+Vashka[137]	; Outer Rim Territories[137]	; Unknown	; Unknown	; Unknown	; Unknown
+Vassek[525]	; Outer Rim Territories[525]	; Unknown	; Vassek system[525]	; Unknown	; Unknown
+Velusia[61]	; Unknown	; Unknown	; Velusia system[211]	; Velusians[61]	; Unknown
+Vendaxa[526]	; Expansion Region[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Vernid[59]	; Outer Rim Territories[59]	; Unknown	; Unknown	; Unknown	; Unknown
+Veros[503]	; Unknown	; Unknown	; Unknown	; Verosians[503]	; Unknown
+Vertseth[527]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Verzan[131]	; Deep Core[131]	; Unknown	; Cerberon system[131]	; Unknown	; Unknown
+Vetine[119]	; Unknown	; Merrick sector[119]	; Unknown	; Unknown	; Unknown
+Viamarr[150]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Vir Aphshire[49]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Virujansi[192]	; Unknown	; Unknown	; Unknown	; Humans[5]	; Unknown
+Vixnix[230]	; Mid Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Vjun[240]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Vlemoth Port[220]	; Outer Rim Territories[220]	; Instrop sector[220]	; Vlemoth Port system[220]	; Talz, Humans, Muuns[220]	; Unknown
+Vodran[8]	; Hutt Space[8]	; Si'Klaata Cluster[194]	; Unknown	; Vodrans[8]	; Unknown
+Vorlag[61]	; Unknown	; Unknown	; Unknown	; Vorlaggn[61]	; Unknown
+Vrant Tarnum[528]	; Unknown	; Unknown	; Stygmarn system[528]	; Unknwon	; Unknown
+Vrogas Vas[529]	; Unknown	; Unknown	; Unknown	; Humans[529]	; Unknown
+Vulpter[192]	; Deep Core[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Vurdon Ka[58]	; Inner Rim Territories[11]	; Unknown	; Unknown	; Vuvrians[58]	; Unknown
+Vyndal[530]	; Unknown	; Unknown	; Unknown	; Unidentified species[530]	; Unknown
+W
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Wadi Raffa[37]	; Western Reaches[37]	; Unknown	; Unknown	; Unknown	; Unknown
+Warlentta[24]	; Unknown	; Unknown	; Warlentta system[24]	; Humans[24]	; Unknown
+Watassay[236]	; Outer Rim Territories[236]	; Unknown	; Five Points system[236]	; Unknown	; Unknown
+Water[93]	; Outer Rim Territories[93]	; Oplovis sector[93]	; Heaven system[93]	; Unknown	; Unknown
+Wecacoe[531]	; Colonies[531]	; Unknown	; Unknown	; Various[531]	; Unknown
+Weik[32]	; Wild Space[32]	; Unknown	; Weik system[32]	; Various[32]	; Vossport[32]
+Wellspring of Life[532]	; Deep Core[32]	; Unknown	; Unknown	; Midi-chlorians[533]	; Unknown
+Whiforla II[223]	; Unknown	; Unknown	; Unknown	; Whiforlans[223]	; Unknown
+Wick 111[534]	; Outer Rim Territories[9]	; Unknown	; Unknown	; Wickwar[534]	; Unknown
+Wind[93]	; Outer Rim Territories[93]	; Oplovis sector[93]	; Heaven system[93]	; Unknown	; Unknown
+Wobani[236]	; Mid Rim Territories[192]	; Bryx sector[105]	; Wobani system[535]	; Humans[30]	; Unknown
+Wrea[236]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Wreans[236]	; Unknown
+Wynkahthu[536]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+X
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Xala[21]	; Wild Space[21]	; Unknown	; Xala system[21]	; Unknown	; Unknown
+Xendek[537]	; Unknown	; Unknown	; Unknown	; Xendekians[537]	; Unknown
+Xibariz[9]	; Inner Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Xirl[350]	; Wild Space[350]	; Unknown	; Unknown	; Unknown	; Unknown
+Xorrn[220]	; Outer Rim Territories[220]	; Ferra sector[220]	; Xorrn system[220]	; Unknown	; Unknown
+Y
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Yabol Opa[263]	; Colonies[11]	; Unknown	; Unknown	; Unknown	; Unknown
+Yag'Dhul[538]	; Inner Rim Territories[538]	; Unknown	; Unknown	; Givin[538]	; Unknown
+Yakorki[9]	; Outer Rim Territories[9]	; Unknown	; Unknown	; Unknown	; Unknown
+Yar Togna[42]	; Unknown	; Unknown	; Unknown	; Tognath[192]	; Unknown
+Yarma[539]	; Unknown	; Unknown	; Yarma system[539]	; Unknown	; Unknown
+Yavin Prime[101][28]	; Outer Rim Territories[5]	; Gordian Reach[5]	; Yavin system[5]	; Unknown	; Unknown
+Yerbana[540]	; Outer Rim Territories[540]	; Unknown	; Unknown	; Unknown	; Unknown
+Ylesia[541]	; Outer Rim Territories[11]	; Hutt Space[11]	; Unknown	; Unknown	; Unknown
+Yout[466]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Yungbrii[196]	; Mid Rim Territories[196]	; Unknown	; Opalok system[196]	; Humans[196]	; Unknown
+Z
+Name	; Region	; Sector	; System	; Inhabitants	; Capital City
+Zastiga[85]	; Outer Rim Territories[85]	; Unknown	; Unknown	; Unknown	; Unknown
+Zeffo[542]	; Outer Rim Territories[101]	; Unknown	; Zeffo system[101]	; Zeffo[101]	; Unknown
+Zeitooine[1]	; Inner Rim Territories[1]	; Unknown	; Unknown	; Unknown	; Unknown
+Zhanox[34]	; Outer Rim Territories[34]	; Anoat sector[34]	; Zhanox system[34]	; Ugnaughts[34]	; Unknown
+Zoh[363]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+Zolan[273]	; Mid Rim Territories[11]	; Unknown	; Unknown	; Clawdites[543]	; Unknown
+Zoph[47]	; Outer Rim Territories[47]	; Unknown	; Unknown	; Unknown	; Unknown
+Zygerria[48]	; Outer Rim Territories[11]	; Unknown	; Unknown	; Zygerrians[283]	; Unknown
+Zyzar[286]	; Unknown	; Unknown	; Unknown	; Unknown	; Unknown
+

@@ -1,0 +1,15 @@
+Starship types
+
+A J-type star skiff, a type of yacht
+
+Yacht — A luxurious vessel typically owned by a politician, diplomat or rich person.
+Starfighter — A small one- or two-man vessel typically used for dogfighting.
+Bomber — A slower ship armed with bombs.
+Scout vessel — A small, fast ship used to scout an area before a main force arrives.
+Transport — A cargo or passenger carrier.
+Shuttle — A small craft used to transport personnel, usually at least partially though space.
+Gunship — Used for atmospheric or space combat.
+System patrol craft — Used for in-system operations; usually lacked hyperdrives.
+Freighter — A cargo or freight carrier.
+Capital ship — The largest of starships, often used as a warship.
+Space station — An artificial structure for use in orbit or deep space.
