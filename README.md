@@ -19,3 +19,5 @@ Desenvolvedor .Net, Banco Safra S.A.
 Full-Stack
 Intermediário
 ESPECIALISTA
+
+https://web.digitalinnovation.one/lab/criando-um-gerenciador-de-espaconaves-do-star-wars-com-sql-server-net/learning/ea00c81d-96a6-40cf-9baa-fd301c89b79d
